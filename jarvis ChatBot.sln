@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jarvis ChatBot", "jarvis ChatBot\jarvis ChatBot.csproj", "{B3913AF6-A9D8-4D74-82F7-528F20015D82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3913AF6-A9D8-4D74-82F7-528F20015D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3913AF6-A9D8-4D74-82F7-528F20015D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3913AF6-A9D8-4D74-82F7-528F20015D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3913AF6-A9D8-4D74-82F7-528F20015D82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B719198-A54A-4F51-82FD-3D2DB08CACAE}
+	EndGlobalSection
+EndGlobal
